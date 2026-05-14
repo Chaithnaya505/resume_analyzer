@@ -1,0 +1,11 @@
+ID,Job_Role,Resume,Job_Description,Match
+1,Data Scientist,"python machine learning pandas data analysis","python machine learning data analysis pandas numpy nlp sql",1
+2,Frontend Developer,"html css javascript react","html css javascript react bootstrap ui",1
+3,Android Developer,"java kotlin android","android developer java kotlin mobile",1
+4,Software Engineer,"c++ java data structures algorithms","software engineer dsa oop java",1
+5,Data Analyst,"excel sql power bi","data analyst excel sql visualization",1
+6,DevOps Engineer,"docker kubernetes aws","devops aws docker kubernetes ci cd",1
+7,Security Analyst,"network security ethical hacking","cyber security network risk analysis",1
+8,AI Engineer,"deep learning nlp tensorflow","ai deep learning nlp python",1
+9,Backend Developer,"nodejs express mongodb","backend nodejs api mongodb",1
+10,Frontend Developer,"html css angular","frontend html css angular ui",1
